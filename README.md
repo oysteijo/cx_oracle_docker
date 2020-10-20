@@ -13,10 +13,10 @@ This image can then serve as a starting point for anything that connects to a da
 
 #### How to build
 
-    docker build -t cx_oracle
+    docker build -t cx_oracle .
 
 #### How to run
-You are not supposed to run this, but rather build new container images from here. Start your next container with:
+You are not supposed to run this, but rather build new container images from here. Start your next Dockerfile with:
 
     FROM cx_oracle:latest
 
