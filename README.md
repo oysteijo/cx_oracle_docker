@@ -1,5 +1,5 @@
 ## cx_oracle_docker
-This is a simple Dockerfile that installs the latest cx_Oracle over ubunty:latest.
+This is a simple Dockerfile that installs the latest cx_Oracle over ubuntu:latest.
 
 #### What it does
  * Fetches and installs the latest Oracle instant client.
